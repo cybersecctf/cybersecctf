@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ctfs and programming...
 - 📫 How to reach me :follow me and i follow you ... https://ctftime.org/team/302099 on twitter/x:@uniimmortal gmail:unimmortal.ctf@gmail.com
 - 😄 Pronouns: not a bot:)
-- ⚡ Fun fact: still improving: wait for more follow and comment https://cybersecctf.github.io/blog/ and i do same......
+- ⚡ Fun fact: still improving: wait for more follow and comment https://cybersecctf.github.io/blog/ and i do same
+- to   be a sol find a sol and to find a sol be a sol-by solandsolution......
 
 <!---
 cybersecctf/cybersecctf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
